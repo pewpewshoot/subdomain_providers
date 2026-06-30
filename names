@@ -10,32 +10,13 @@ byet.host, fsp          //many availeable subdomains
                        //10001mb.com, 22web.org, 2kool4u.net, 66ghz.com, a0001.net, fast-page.org, html-5.me, humorme.info, iblogger.org, is-best.net, is-great.net, is-great.org, joomla-host.org
                        //likesyou.org, loveslife.biz, my-board.org, my-style.in, mydiscussion.net, nichesite.org, social-networking.me, synergize.co, talk4fun.net, totalh.net, web1337.net
 
-
-000webhostapp.com, fsp          //000webhostapp.com could not be found, results on your end may vary
-
-azurewebsites.net, fsp          //azurewebsites.net could not be found, results on your end may vary
-
-webcindario.com, fsp          //real url hosting.miarroba.com, do not recommend since new registrations for this service have been temporarily deactivated 
-
-umbler.com, fsp          //do not recommend, no english language option, someone who speaks Portuguese pls help me out here XD
-
-weebly.com, fsp          //regionblocked, can't check D:
-
-wix.com, fsp          //regionblocked, can't check D:
-
-wordpress.com, fsp          //Start free with wordpress.com subdomain, .blog and .com domains are free for the first year
+wordpress.com, fsp          //Start free with wordpress.com subdomain, .blog and .com domains are free only for the first year
 
 x10hosting.com, fsp          //works fine, only domains availeable are x10.mx x10.bz and elementfx.com
 
 linkedin.com, fpp          //you're not gonna believe this
 
-yolasite.com, fsp          //only free subdomain option is .yolasite.com, do not recommend 
-
 ngrok.com,fsp          //only one free subdomain of ngrok-free.dev, very beautiful ik
-
-glitch.me,fsp          //glitch.me could not be found, results on your end may vary
-
-plesk.page,fsp          //plesk.page could not be found, results on your end may vary
 
 replit.com,fsp          //replit provides a free subdomain in the format <your-live-app-subdomain-name>.replit.app
 
@@ -286,3 +267,23 @@ gomix.com, fsp
 ugu.pl, fsp
 cloudns.ch, fsp
 framer.app. fsp
+
+
+
+000webhostapp.com, fsp          //000webhostapp.com could not be found, results on your end may vary
+
+azurewebsites.net, fsp          //azurewebsites.net could not be found, results on your end may vary
+
+webcindario.com, fsp          //real url hosting.miarroba.com, do not recommend since new registrations for this service have been temporarily deactivated 
+
+umbler.com, fsp          //do not recommend, no english language option, someone who speaks Portuguese pls help me out here XD
+
+weebly.com, fsp          //regionblocked, can't check D:
+
+wix.com, fsp          //regionblocked, can't check D:
+
+yolasite.com, fsp          //only free subdomain option is .yolasite.com, do not recommend 
+
+glitch.me,fsp          //glitch.me could not be found, results on your end may vary
+
+plesk.page,fsp          //plesk.page could not be found, results on your end may vary

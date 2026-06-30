@@ -1,5 +1,5 @@
-Format: 
-example.com, fsp,fpp //author's note
+DISCLAIMER: this list simply reflects the author's opinions, any judgement is to be taken with a grain of salt.
+FORMAT: example.com, fsp,fpp //author's note
 
 eu.org          //pretty reliable and official looking, approval is pretty slow and requires your address and government name
 
@@ -38,7 +38,6 @@ plesk.page,fsp          //plesk.page could not be found, results on your end may
 
 replit.com,fsp          //replit provides a free subdomain in the format <your-live-app-subdomain-name>.replit.app
 
-atwebpages.com,fsp
 epizy.com, fsp
 great-site.net, fsp
 rf.gd, fsp

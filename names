@@ -26,9 +26,10 @@ byet.host, fsp          //many availeable subdomains
                        //10001mb.com, 22web.org, 2kool4u.net, 66ghz.com, a0001.net, fast-page.org, html-5.me, humorme.info, iblogger.org, is-best.net, is-great.net, is-great.org, joomla-host.org
                        //likesyou.org, loveslife.biz, my-board.org, my-style.in, mydiscussion.net, nichesite.org, social-networking.me, synergize.co, talk4fun.net, totalh.net, web1337.net
 
-godaddysites.com, fsp
-linkedin.com, fpp
-yolasite.com, fsp
+linkedin.com, fpp          //youre not gonna believe this
+
+yolasite.com, fsp          //only free subdomain option is .yolasite.com, do not recommend 
+
 ngrok.io,fsp
 glitch.me,fsp
 teads.tv,fsp

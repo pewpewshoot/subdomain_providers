@@ -36,7 +36,8 @@ glitch.me,fsp          //glitch.me could not be found, results on your end may v
 
 plesk.page,fsp          //plesk.page could not be found, results on your end may vary
 
-repl.co,fsp
+replit.com,fsp          //replit provides a free subdomain in the format <your-live-app-subdomain-name>.replit.app
+
 atwebpages.com,fsp
 epizy.com, fsp
 great-site.net, fsp

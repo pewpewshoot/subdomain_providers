@@ -32,9 +32,8 @@ yolasite.com, fsp          //only free subdomain option is .yolasite.com, do not
 
 ngrok.com,fsp          //only one free subdomain of ngrok-free.dev, very beautiful ik
 
-glitch.me,fsp
-teads.tv,fsp
-teads.com,fsp
+glitch.me,fsp          //glitch.me could not be found, results on your end may vary
+
 tonohost.com,fsp
 plesk.page,fsp
 repl.co,fsp

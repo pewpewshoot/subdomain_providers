@@ -9,16 +9,12 @@ example.com, fsp,fpp //author's note
 000webhostapp.com, fsp          //000webhostapp.com could not be found, results on your end may vary
 azurewebsites.net, fsp          //azurewebsites.net could not be found, results on your end may vary
 webcindario.com, fsp          //real url hosting.miarroba.com, do not recommend since new registrations for this service have been temporarily deactivated 
-umbler.com, fsp          //do not recommend, no english language option
-umbler.net, fsp          //real url umbler.com, duplicate website
-nitrado.hosting, fsp          //game server hosting website, not fsp, left in nonetheless
+umbler.com, fsp          //do not recommend, no english language option, someone who speaks Portuguese pls help me out here XD
 weebly.com, fsp
 wix.com, fsp
 wordpress.com, fsp
 bravenet.com, fsp
-x10hosting.com, fsp
-awardspace.com, fsp          //paid service, left in for better monitoring with the main branch
-5gbfree.com, fsp          //paid service, left in for better monitoring with the main branch
+x10hosting.com, fsp          //works fine, only domains availeable are x10.mx x10.bz and elementfx.com
 freehostia.com, fsp
 orgfree.com, fsp
 6te.net, fsp

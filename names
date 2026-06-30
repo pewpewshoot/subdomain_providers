@@ -6,12 +6,12 @@ example.com, fsp,fpp //author's note
 
 
 
-000webhostapp.com, fsp
-azurewebsites.net, fsp
-webcindario.com, fsp
-umbler.com, fsp
-umbler.net, fsp
-nitrado.hosting, fsp
+000webhostapp.com, fsp          //000webhostapp.com could not be found, results on your end may vary
+azurewebsites.net, fsp          //azurewebsites.net could not be found, results on your end may vary
+webcindario.com, fsp          //real url hosting.miarroba.com, do not recommend since new registrations for this service have been temporarily deactivated 
+umbler.com, fsp          //do not recommend, no english language option
+umbler.net, fsp          //real url umbler.com, duplicate website
+nitrado.hosting, fsp          //game server hosting website, not fsp, left in nonetheless
 weebly.com, fsp
 wix.com, fsp
 wordpress.com, fsp

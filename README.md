@@ -1,6 +1,6 @@
 
 
-#### only Free Subdomain Provieders branch
+#### only Free Subdomain Providers branch
 Type of service provider (second column) is one of the following:
 
     fsp: Free Subdomain Provider

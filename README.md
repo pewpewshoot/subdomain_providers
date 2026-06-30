@@ -7,7 +7,7 @@ Type of service provider (second column) is one of the following:
     ~psp: Paid Subdomain Provider~
     ~ddns: Dynamic DNS Provider~
     ~fss: File Sharing Service~
-    ~csp: Cloud Service Provider~
+    ~~csp: Cloud Service Provider~~
     fpp: Free Page Provider
     ~tss: Text Sharing Service~
     ~lrs: Link redirection service~

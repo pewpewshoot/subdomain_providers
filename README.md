@@ -1,7 +1,8 @@
 
 
 #### only Free Subdomain Provieders branch
-Type of service provider (second column) is one of the following
+Type of service provider (second column) is one of the following:
+
     fsp: Free Subdomain Provider
     ~psp: Paid Subdomain Provider~
     ~ddns: Dynamic DNS Provider~
